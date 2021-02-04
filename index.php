@@ -4,6 +4,8 @@
 	<title></title>
 </head>
 <body>
+
+<p>the new paragraph</p>
 	<?php
    if(!isset($_POST['submit'])){
    	$firstname = $_POST['first'];
